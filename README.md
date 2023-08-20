@@ -1,7 +1,7 @@
 ## Project description
 
 <img src = './illustration_image/di-practice.drawio.png' ></img>
-<img src = './illustration_image/di-practice-Page-2.drawio.png'></img>
+<img src = './illustration_image/di-practice-Page-2.drawio (1).png'></img>
 <img src = './illustration_image/di-practice-Page-3.drawio.png'></img>
 <img src = './illustration_image/di-practice-Page-4.drawio.png'></img>
 
