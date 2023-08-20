@@ -2,8 +2,8 @@
 
 <img src = './illustration_image/di-practice.drawio.png'></img>
 <img src = './illustration_image/di-practice-Page-2.drawio.png'></img>
-<img src = './illustration_image/di-practice-Page-3.drawio'></img>
-<img src = './illustration_image/di-practice-Page-4.drawio'></img>
+<img src = './illustration_image/di-practice-Page-3.drawio.png'></img>
+<img src = './illustration_image/di-practice-Page-4.drawio.png'></img>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
