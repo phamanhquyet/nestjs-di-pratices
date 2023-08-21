@@ -10,7 +10,7 @@
   <img src = './illustration_image/di-practice-Page-3.drawio (1).png'></img>
 </p>
 <p align="center">
-  <img src = './illustration_image/di-practice-Page-4.drawio (1).png'></img>
+  <img src = './illustration_image/di-between-modules.png'></img>
 </p>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
